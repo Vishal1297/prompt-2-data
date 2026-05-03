@@ -134,7 +134,3 @@ Here are small examples of what the generated files look like.
 ---
 
 _This project was built with Vite, React, and Tailwind CSS._
-
----
-
-_This project was built with Vite, React, and Tailwind CSS._
