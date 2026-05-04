@@ -1,7 +1,7 @@
 # Prompt2Data
 
 <p align="center">
-  <img src="./src/assets/hero.png" alt="Prompt2Data Hero Image" width="400">
+  <img src="./src/assets/logo.png" alt="Prompt2Data Hero Image" width="400">
 </p>
 
 <p align="center">
